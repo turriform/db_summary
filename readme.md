@@ -2,7 +2,7 @@
 
 ```bash
 # from ./
-# should make and the program 
+
 
 sudo apt-get install postgresql postgresql-contrib 
 sudo apt-get install libpq-dev
