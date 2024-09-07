@@ -29,7 +29,7 @@ dbfield=dbfieldname         # required
 ```bash
 ./bin/prog  dbname=./database/oscar.sqlite3 dbtable=oscar dbfield=year
 ```
-### usage for sqlite
+### usage for postgres
 ```bash
 ./bin/prog db_type=postgres host=localhost port=5432 user=postgres pass=yourpass dbname=postgres dbtable=oscar dbfield=year
 ```
