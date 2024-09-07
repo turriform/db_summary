@@ -1,3 +1,4 @@
+### Program to store and calculate filed data from postgres or sqlite, does not use aggregate functions from db iface 
 
 ```bash
 # from ./
