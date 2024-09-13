@@ -1,2 +1,3 @@
-words are taken from
-[dwyl/english-words] (https://github.com/dwyl/english-words)
+words are taken from:
+
+https://github.com/dwyl/english-words
